@@ -1,0 +1,9 @@
+Sun Jul  9 05:23:08 2023
+WARNING: mju_openResource: unknown file '~/.mujoco/mujoco210/model/humanoid.xml'
+
+Sun Jul  9 05:28:54 2023
+WARNING: mju_openResource: unknown file '~/anaconda3/envs/202x/lib/python3.9/site-packages/dm_control/mujoco/testing/assets/humanoid.xml'
+
+Sun Jul  9 05:30:50 2023
+WARNING: mju_openResource: unknown file '~/anaconda3/envs/202x/lib/python3.9/site-packages/dm_control/mjcf/test_assets/robot_arm.xml'
+
