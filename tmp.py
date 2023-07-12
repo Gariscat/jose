@@ -22,7 +22,6 @@ with mujoco.viewer.launch_passive(m, d) as viewer:
   while viewer.is_running() and time.time() - start < 30:
     step_start = time.time()
     action = env.action_space.sample()
-    print()
     d.ctrl[:] = action
     mujoco.mj_step(m, d, nstep=frame_skip)
 
